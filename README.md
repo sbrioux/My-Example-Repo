@@ -1,2 +1,2 @@
-# My-Example-Repo
-This is just an example repo to assist me with how this works.
+# My Example Repo
+This is just an example/sample repo on Github
